@@ -1,0 +1,160 @@
+{
+  "users": [],
+
+  "product": [
+    {
+      "id": "1",
+      "title": "T-shirt With Tape Details",
+      "name": "T-shirt",
+      "price": 120,
+      "rating": 4.5,
+      "details": "Elevate your casual wardrobe with our T-Shirt with Tape Details. This stylish tee features unique tape accents that add a modern twist to a classic design. Crafted from soft, breathable fabric, it ensures all-day comfort whether you’re out with friends or lounging at home.",
+      "image": "/shop/tc-bla.png",
+      "image1": "/shop/tshirt-w.png",
+      "image2": "/shop/tc-bla.png"
+    },
+    {
+      "id": "2",
+      "title": "Skinny Fit Jeans",
+      "name": "pants",
+      "price": 240,
+      "rating": 3.5,
+      "discount": 20,
+      "priceOld": 260,
+      "details": "Add a touch of vintage flair to your wardrobe with our Skinny Fit Jeans. These jeans offer a flattering fit and exceptional comfort, making them a versatile choice for any occasion.",
+      "image": "/shop/jeans-blue.png",
+      "image1": "/shop/jeans-blue.png",
+      "image2": "/shop/jeans-black.png"
+    },
+    {
+      "id": "3",
+      "title": "Checkered Shirt",
+      "name": "shirt",
+      "price": 180,
+      "rating": 4.5,
+      "details": "Elevate your wardrobe with our Vertical Striped Shirt. Featuring bold vertical stripes, this shirt combines a modern aesthetic with a classic cut, making it perfect for both casual outings and more formal occasions.",
+      "image": "/shop/shirt-blue.png",
+      "image1": "/shop/shirt-blue.png",
+      "image2": "/shop/shirt-green.png"
+    },
+    {
+      "id": "4",
+      "title": "Sleeve Striped T-Shirt",
+      "name": "T-shirt",
+      "price": 130,
+      "rating": 4.5,
+      "discount": 30,
+      "priceOld": 160,
+      "details": "Showcase your bold spirit with our Courage Graphic T-Shirt. Featuring an inspiring graphic design, this tee combines comfort with a powerful message, making it a standout piece for any casual occasion.",
+      "image": "/shop/tc-bla.png",
+      "image1": "/shop/tc-bla.png",
+      "image2": "/shop/tshirt-w.png"
+    },
+    {
+      "id": "5",
+      "title": "Vertical Stripe Shirt",
+      "name": "shirt",
+      "price": 213,
+      "rating": 5.0,
+      "discount": 30,
+      "priceOld": 242,
+      "details": "Elevate your wardrobe with our Vertical Striped Shirt. Featuring bold vertical stripes, this shirt combines a modern aesthetic with a classic cut, making it perfect for both casual outings and more formal occasions.",
+      "image": "/shop/shirt-green.png",
+      "image1": "/shop/shirt-blue.png",
+      "image2": "/shop/shirt-green.png"
+    },
+    {
+      "id": "6",
+      "title": "Courage Graphic T-shirt",
+      "name": "T-shirt",
+      "price": 140,
+      "rating": 4.0,
+      "details": "Showcase your bold spirit with our Courage Graphic T-Shirt. Featuring an inspiring graphic design, this tee combines comfort with a powerful message, making it a standout piece for any casual occasion.",
+      "image": "/shop/t-shirt-or.png",
+      "image1": "/shop/tc-bla.png",
+      "image2": "/shop/tshirt-w.png"
+    },
+    {
+      "id": "7",
+      "title": "Loose Fit Bermuda Shorts",
+      "name": "pants",
+      "price": 80,
+      "rating": 3.5,
+      "details": "Stay cool and comfortable this season with our Loose Fit Bermuda Shorts. Designed for ultimate relaxation, these shorts offer a laid-back vibe without sacrificing style, making them perfect for casual outings or lounging at home.",
+      "image": "/shop/short.png",
+      "image1": "/shop/jeans-black.png",
+      "image2": "/shop/jeans-blue.png"
+    },
+    {
+      "id": "8",
+      "title": "Faded Skinny Jeans",
+      "name": "pants",
+      "price": 210,
+      "rating": 4.5,
+      "details": "Add a touch of vintage flair to your wardrobe with our Faded Skinny Jeans. Featuring a stylish faded finish, these jeans offer a flattering fit and exceptional comfort, making them a versatile choice for any occasion.",
+      "image": "/shop/jeans-black.png",
+      "image1": "/shop/jeans-blue.png",
+      "image2": "/shop/short.png"
+    },
+    {
+      "id": "9",
+      "title": "Polo with Contrast Trims",
+      "name": "shirt",
+      "price": 212,
+      "rating": 4.0,
+      "discount": 20,
+      "priceOld": 224,
+      "image": "/shop/polo-blue.png",
+      "image1": "/shop/shirt-blue.png",
+      "image2": "/shop/polo.png"
+    },
+    {
+      "id": "10",
+      "title": "Gradient Graphic T-shirt",
+      "name": "T-shirt",
+      "price": 145,
+      "rating": 3.5,
+      "details": "Showcase your bold spirit with our Courage Graphic T-Shirt. Featuring an inspiring graphic design, this tee combines comfort with a powerful message, making it a standout piece for any casual occasion.",
+      "image": "/shop/tc.png",
+      "image1": "/shop/tc-bla.png",
+      "image2": "/shop/tshirt-w.png"
+    },
+    {
+      "id": "11",
+      "title": "Polo with Tipping Details",
+      "name": "shirt",
+      "price": 180,
+      "rating": 4.5,
+      "image": "/shop/polo.png",
+      "image1": "/shop/shirt-blue.png",
+      "image2": "/shop/polo-blue.png"
+    },
+    {
+      "id": "12",
+      "title": "Black Striped T-shirt",
+      "name": "T-shirt",
+      "price": 120,
+      "rating": 5.0,
+      "discount": 30,
+      "priceOld": 150,
+      "image": "/shop/tshirt-w.png",
+      "image1": "/shop/tc-bla.png",
+      "image2": "/shop/tc.png"
+    },
+    {
+      "id": "13",
+      "title": "One Life Graphic T-shirt",
+      "name": "T-shirt",
+      "price": 260,
+      "rating": 4.5,
+      "discount": 40,
+      "priceOld": 300,
+      "details": "This graphic t-shirt which is perfect for any occasion. Crafted from a soft and breathable fabric, it offers superior comfort and style. The graphic design adds a unique touch to your wardrobe, making it a versatile choice for any occasion. ",
+      "image": "/shop/tshirt-gr-1.png",
+      "image1": "/shop/tshirt-gr-2.png",
+      "image2": "/shop/tshirt-gr-3.png"
+    }
+  ],
+
+  "Cart": []
+}
