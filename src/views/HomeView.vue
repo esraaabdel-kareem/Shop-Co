@@ -129,7 +129,7 @@
         <section class="top-selling mb-5 py-5">
           <h2 class="main-title my-5 text-center text-uppercase">Top Selling</h2>
           <div class="d-flex  justify-content-center g-5 align-content-center row-slider" v-if="topSelling">
-            <div class="col-7 col-sm-5 col-md-3 col-lg-4 mb-4" v-for="product in topSelling" :key="product.id">
+            <div class="col-7 col-sm-8 col-md-4 col-lg-4 mb-4" v-for="product in topSelling" :key="product.id">
               <div class="card  border-0" style="width: 20rem; height: 33rem;">
                 <RouterLink :to="{ name: 'product', params: { id: product.id } }">
                   <img :src="product.image" class="card-img-top rounded-5 mb-2"
